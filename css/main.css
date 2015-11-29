@@ -1,0 +1,92 @@
+/*********************
+GENERAL
+**********************/
+
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#wrapper {
+	max-width: 940px;
+	padding: 0 5%;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+/*********************
+HEADING
+**********************/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+	min-height: 60px;
+}
+
+h1 {
+	margin: 15px 0 15px 15px;
+	font-size: 1.75em;
+	font-weight: normal;
+	line-height: 0.8em;
+}
+
+/*********************
+COLORS
+**********************/
+
+/* site body */
+body {
+	background-color: #fff;
+	color: #999;
+}
+
+/* green header */
+header {
+	background: #278E67;
+}
+
+/* header text */
+h1 {
+	color: #fff;
+}
+
+/*********************
+BODY
+**********************/
+table {
+    border-collapse: collapse;
+    margin-bottom: 3em;
+    width: 100%;
+    background: #fff;
+}
+
+td, th {
+    padding: 0.75em 1.5em;
+    text-align: left;
+}
+
+th {
+    background-color: #31bc86;
+    font-weight: normal;
+    color: #fff;
+    white-space: nowrap;
+    background-color: #2ea879;
+}
+
+tr:nth-child(2n-1) {
+    background-color: #f5f5f5;
+    transition: all .125s ease-in-out;
+}
+
+tr:hover {
+    background-color: rgba(129,208,177,.3);
+}

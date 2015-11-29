@@ -1,0 +1,34 @@
+[
+  {
+   "type": "user",
+   "firstName": "Robert",
+   "lastName": "Kowalski",
+   "gender": "male",
+   "city": "Warsaw",
+   "country": "PL"
+  },
+  {
+   "type": "weatherUser",
+   "firstName": "Magda",
+   "lastName": "Nowak",
+   "gender": "female",
+   "city": "Poznan",
+   "country": "PL"
+  },
+  {
+   "type": "mapUser",
+   "firstName": "Paweł",
+   "lastName": "Szewczyk",
+   "gender": "male",
+   "city": "Gdansk",
+   "country": "PL"
+  },
+  {
+   "type": "superUser",
+   "firstName": "Agnieszka",
+   "lastName": "Jaworska",
+   "gender": "female",
+   "city": "Gdynia",
+   "country": "PL"
+  }
+]
